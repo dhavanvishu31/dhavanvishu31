@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishwajeet Dhavan</h1>
 <h3 align="center">A passionate Web developer</h3>
 
-
-<p align="left"> <a href="https://twitter.com/dhavan_vishu" target="blank"><img src="https://img.shields.io/twitter/follow/dhavan_vishu?logo=twitter&style=for-the-badge" alt="dhavan_vishu" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhavanvishu" alt="dhavanvishu" /></a> </p>
 
 - 🌱 I’m currently learning **web development ,java ,Spring-boot**
 
