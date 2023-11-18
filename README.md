@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhavanvishu31" alt="dhavanvishu31" /></a> </p>
 
-- 🌱 I’m currently learning **web development ,java ,Spring-boot**
+- 🌱 I’m currently learning **web development ,java**
 
-- 💬 Ask me about **Html ,CSS ,Php**
+- 💬 Ask me about **Html ,CSS ,Php ,JavaScript**
 
 - 📫 How to reach me **vishudhavan31@gmail.com**
 
